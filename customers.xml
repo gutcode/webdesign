@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<customers>
+  <customer id="0">
+    <firstName>Paul</firstName>
+    <lastName>Jones</lastName>
+    <street>123 Main St</street>
+    <city>Anywhere</city>
+    <zip>15235</zip>
+  </customer>
+
+  <customer id="1">
+    <firstName>Sally</firstName>
+    <lastName>Jones</lastName>
+    <street>123 Main St</street>
+    <city>Anywhere</city>
+    <zip>15235</zip>
+  </customer>
+</customers>
