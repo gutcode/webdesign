@@ -1,2 +1,1 @@
-# webdesign
-I created this simple website on my leisure time, people can take advantage to broad with their ideas using this basic sketch.
+I have written the web code for the basic website, which you can broad with your ideas. Happy coding!
